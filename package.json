@@ -1,0 +1,19 @@
+{
+  "name": "modulo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NATALIAGJ/modulo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NATALIAGJ/modulo/issues"
+  },
+  "homepage": "https://github.com/NATALIAGJ/modulo#readme"
+}
